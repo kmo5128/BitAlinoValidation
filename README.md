@@ -1,2 +1,2 @@
 # BitAlinoValidation
-IAPS study measuring skin conductance to validate BitAlino Revolution Board Kit / Open Signals
+Validation of skin conductance responses obtained with the BitAlino Device - Model: SFK-D 94V-0  using an IAPs task
